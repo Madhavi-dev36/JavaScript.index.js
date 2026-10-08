@@ -1,6 +1,6 @@
 function showMessage() {
     console.log(message);
-    var message = "hyy Madhavi";
+    var message = "hii Madhavi";
     console.log(message);
 }
 
